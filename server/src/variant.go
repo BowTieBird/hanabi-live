@@ -47,6 +47,10 @@ func (v *Variant) IsThrowItInAHole() bool {
 	return strings.HasPrefix(v.Name, "Throw It in a Hole")
 }
 
+func (v *Variant) IsEndless() bool {
+	return strings.HasPrefix(v.Name, "Endless")
+}
+
 func (v *Variant) IsUpOrDown() bool {
 	return strings.HasPrefix(v.Name, "Up or Down")
 }

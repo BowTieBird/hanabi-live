@@ -14383,5 +14383,365 @@
     "name": "Chimneys & Dark Prism (5 Suits)",
     "suits": ["Red", "Yellow", "Green", "Blue", "Dark Prism"],
     "chimneys": true
+  },
+  {
+    "id": 150,
+    "name": "Endless (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Teal"],
+    "endless": true
+  },
+  {
+    "id": 193,
+    "name": "Endless (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple"],
+    "endless": true
+  },
+  {
+    "id": 197,
+    "name": "Endless (4 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue"],
+    "endless": true
+  },
+  {
+    "id": 785,
+    "name": "Endless (3 Suits)",
+    "suits": ["Red", "Green", "Blue"],
+    "endless": true
+  },
+  {
+    "id": 1295,
+    "name": "Endless Black (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Black"],
+    "endless": true
+  },
+  {
+    "id": 1476,
+    "name": "Endless Black (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Black"],
+    "endless": true
+  },
+  {
+    "id": 1488,
+    "name": "Endless Rainbow (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 1500,
+    "name": "Endless Rainbow (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 1506,
+    "name": "Endless Rainbow (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 1512,
+    "name": "Endless Rainbow (3 Suits)",
+    "suits": ["Red", "Blue", "Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 1518,
+    "name": "Endless Pink (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Pink"],
+    "endless": true
+  },
+  {
+    "id": 2018,
+    "name": "Endless Pink (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Pink"],
+    "endless": true
+  },
+  {
+    "id": 2019,
+    "name": "Endless Pink (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Pink"],
+    "endless": true
+  },
+  {
+    "id": 2020,
+    "name": "Endless Pink (3 Suits)",
+    "suits": ["Red", "Blue", "Pink"],
+    "endless": true
+  },
+  {
+    "id": 2021,
+    "name": "Endless White (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "White"],
+    "endless": true
+  },
+  {
+    "id": 2022,
+    "name": "Endless White (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "White"],
+    "endless": true
+  },
+  {
+    "id": 2023,
+    "name": "Endless White (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "White"],
+    "endless": true
+  },
+  {
+    "id": 2024,
+    "name": "Endless White (3 Suits)",
+    "suits": ["Red", "Blue", "White"],
+    "endless": true
+  },
+  {
+    "id": 2025,
+    "name": "Endless Brown (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Brown"],
+    "endless": true
+  },
+  {
+    "id": 2026,
+    "name": "Endless Brown (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Brown"],
+    "endless": true
+  },
+  {
+    "id": 2027,
+    "name": "Endless Brown (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Brown"],
+    "endless": true
+  },
+  {
+    "id": 2028,
+    "name": "Endless Brown (3 Suits)",
+    "suits": ["Red", "Blue", "Brown"],
+    "endless": true
+  },
+  {
+    "id": 2029,
+    "name": "Endless Omni (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Omni"],
+    "endless": true
+  },
+  {
+    "id": 2030,
+    "name": "Endless Omni (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Omni"],
+    "endless": true
+  },
+  {
+    "id": 2031,
+    "name": "Endless Omni (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Omni"],
+    "endless": true
+  },
+  {
+    "id": 2032,
+    "name": "Endless Omni (3 Suits)",
+    "suits": ["Red", "Blue", "Omni"],
+    "endless": true
+  },
+  {
+    "id": 2033,
+    "name": "Endless Null (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Null"],
+    "endless": true
+  },
+  {
+    "id": 2034,
+    "name": "Endless Null (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Null"],
+    "endless": true
+  },
+  {
+    "id": 2035,
+    "name": "Endless Null (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Null"],
+    "endless": true
+  },
+  {
+    "id": 2036,
+    "name": "Endless Null (3 Suits)",
+    "suits": ["Red", "Blue", "Null"],
+    "endless": true
+  },
+  {
+    "id": 2037,
+    "name": "Endless Muddy Rainbow (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Muddy Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2038,
+    "name": "Endless Muddy Rainbow (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Muddy Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2039,
+    "name": "Endless Muddy Rainbow (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Muddy Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2040,
+    "name": "Endless Muddy Rainbow (3 Suits)",
+    "suits": ["Red", "Blue", "Muddy Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2041,
+    "name": "Endless Light Pink (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Light Pink"],
+    "endless": true
+  },
+  {
+    "id": 2042,
+    "name": "Endless Light Pink (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Light Pink"],
+    "endless": true
+  },
+  {
+    "id": 2043,
+    "name": "Endless Light Pink (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Light Pink"],
+    "endless": true
+  },
+  {
+    "id": 2044,
+    "name": "Endless Light Pink (3 Suits)",
+    "suits": ["Red", "Blue", "Light Pink"],
+    "endless": true
+  },
+  {
+    "id": 2045,
+    "name": "Endless Prism (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Prism"],
+    "endless": true
+  },
+  {
+    "id": 2046,
+    "name": "Endless Prism (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Prism"],
+    "endless": true
+  },
+  {
+    "id": 2047,
+    "name": "Endless Prism (4 Suits)",
+    "suits": ["Red", "Green", "Blue", "Prism"],
+    "endless": true
+  },
+  {
+    "id": 2048,
+    "name": "Endless Prism (3 Suits)",
+    "suits": ["Red", "Blue", "Prism"],
+    "endless": true
+  },
+  {
+    "id": 2049,
+    "name": "Endless Dark Rainbow (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2050,
+    "name": "Endless Dark Rainbow (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2051,
+    "name": "Endless Dark Pink (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Pink"],
+    "endless": true
+  },
+  {
+    "id": 2052,
+    "name": "Endless Dark Pink (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Pink"],
+    "endless": true
+  },
+  {
+    "id": 2053,
+    "name": "Endless Gray (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Gray"],
+    "endless": true
+  },
+  {
+    "id": 2054,
+    "name": "Endless Gray (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Gray"],
+    "endless": true
+  },
+  {
+    "id": 2055,
+    "name": "Endless Dark Brown (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Brown"],
+    "endless": true
+  },
+  {
+    "id": 2056,
+    "name": "Endless Dark Brown (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Brown"],
+    "endless": true
+  },
+  {
+    "id": 2057,
+    "name": "Endless Dark Omni (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Omni"],
+    "endless": true
+  },
+  {
+    "id": 2058,
+    "name": "Endless Dark Omni (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Omni"],
+    "endless": true
+  },
+  {
+    "id": 2059,
+    "name": "Endless Dark Null (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Null"],
+    "endless": true
+  },
+  {
+    "id": 2060,
+    "name": "Endless Dark Null (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Null"],
+    "endless": true
+  },
+  {
+    "id": 2061,
+    "name": "Endless Cocoa Rainbow (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Cocoa Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2062,
+    "name": "Endless Cocoa Rainbow (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Cocoa Rainbow"],
+    "endless": true
+  },
+  {
+    "id": 2063,
+    "name": "Endless Gray Pink (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Gray Pink"],
+    "endless": true
+  },
+  {
+    "id": 2064,
+    "name": "Endless Gray Pink (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Gray Pink"],
+    "endless": true
+  },
+  {
+    "id": 2065,
+    "name": "Endless Dark Prism (6 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Purple", "Dark Prism"],
+    "endless": true
+  },
+  {
+    "id": 2066,
+    "name": "Endless Dark Prism (5 Suits)",
+    "suits": ["Red", "Yellow", "Green", "Blue", "Dark Prism"],
+    "endless": true
   }
 ]

@@ -43,3 +43,6 @@ export const isOddsAndEvens = (variant: Variant): boolean =>
 
 export const hasReversedSuits = (variant: Variant): boolean =>
   isUpOrDown(variant) || variant.suits.filter((s) => s.reversed).length > 0;
+
+export const isEndless = (variant: Variant):  boolean =>
+  variant.name.startsWith("Endless");

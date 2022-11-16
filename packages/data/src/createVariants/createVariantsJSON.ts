@@ -12,6 +12,7 @@ import {
   getCriticalFoursVariants,
   getDualColorsVariants,
   getDuckVariants,
+  getEndlessVariants,
   getExtremelyAmbiguousVariants,
   getFunnelsVariants,
   getMixVariants,
@@ -85,6 +86,7 @@ function main() {
     ...getOddsAndEvensVariants(suitsToCreateVariantsFor, basicVariantSuits),
     ...getFunnelsVariants(suitsToCreateVariantsFor, basicVariantSuits),
     ...getChimneysVariants(suitsToCreateVariantsFor, basicVariantSuits),
+    ...getEndlessVariants(suitsToCreateVariantsFor, basicVariantSuits),
   ];
   const variants = getVariantsFromVariantDescriptions(variantDescriptions);
 

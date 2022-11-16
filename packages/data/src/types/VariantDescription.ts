@@ -23,6 +23,7 @@ export interface VariantDescription {
   cowPig?: boolean;
   duck?: boolean;
   throwItInHole?: boolean;
+  endless?: boolean;
   upOrDown?: boolean;
   synesthesia?: boolean;
   criticalFours?: boolean;

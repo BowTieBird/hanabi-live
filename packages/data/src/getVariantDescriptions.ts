@@ -1136,3 +1136,42 @@ export function getChimneysVariants(
 
   return variantDescriptions;
 }
+
+export function getEndlessVariants(
+  suitsToCreateVariantsFor: SuitJSON[],
+  basicVariantSuits: string[][],
+): VariantDescription[] {
+  const variantDescriptions: VariantDescription[] = [];
+
+  // Create the basic variants.
+  for (const numSuits of STANDARD_VARIANT_SUIT_AMOUNTS) {
+    const variantName = `Endless (${numSuits} Suits)`;
+    variantDescriptions.push({
+      name: variantName,
+      suits: basicVariantSuits[numSuits]!,
+      endless: true,
+    })
+  }
+
+  // Create combinations with special suits.
+  for (const suit of suitsToCreateVariantsFor) {
+    for (const numSuits of STANDARD_VARIANT_SUIT_AMOUNTS) {
+      // It would be too difficult to have a 4 suit variant or a 3 suits variant with a one-of-each
+      // suit.
+      if ((numSuits === 4 || numSuits === 3) && suit.oneOfEach === true) {
+        continue;
+      }
+
+      const variantName = `Endless ${suit.name} (${numSuits} Suits)`;
+      const basicSuits = basicVariantSuits[numSuits - 1]!;
+      const variantSuits = [...basicSuits, suit.name];
+      variantDescriptions.push({
+        name: variantName,
+        suits: variantSuits,
+        endless: true,
+      });
+    }
+  }
+
+  return variantDescriptions;
+}
